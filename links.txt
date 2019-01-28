@@ -1,0 +1,9 @@
+https://github.com/HeapsIO/heaps/ (see hxsl and hxd.res)
+https://github.com/ncannasse/hxbit/
+https://github.com/ncannasse/castle (see cdb)
+https://github.com/haxetink/tink_json
+https://github.com/haxetink/tink_sql/
+https://github.com/haxetink/tink_template (most of the tinkerbell libraries, really :)
+https://github.com/Simn/hxargs
+https://github.com/nadako/stiletto
+https://github.com/nadako/hxlocalize

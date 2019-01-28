@@ -1,0 +1,5 @@
+-cp src/localeKeys
+-main LocaleKeys
+-js localeKeys.js
+-dce full
+-cmd node localeKeys.js

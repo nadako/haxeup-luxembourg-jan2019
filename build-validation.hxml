@@ -1,0 +1,6 @@
+-cp src/validation
+-main Validation
+-js validation.js
+-dce full
+-D analyzer-optimize
+-cmd node validation.js

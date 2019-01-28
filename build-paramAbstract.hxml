@@ -1,0 +1,5 @@
+-cp src/paramAbstract
+-main ParamAbstract
+-js paramAbstract.js
+-dce full
+-cmd node paramAbstract.js
